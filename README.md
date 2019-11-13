@@ -1,4 +1,13 @@
+<<<<<<< HEAD
 # Sparta Node Sample App :taco: :taco: :taco: :taco:
+=======
+
+# Sparta Node Sample App :taco: :taco: :taco:
+>>>>>>> 943f9bea302999f6f76c777cab4391d73170c1c3
+
+=======
+# Sparta Node Sample App :taco: :taco: :taco: :taco:
+:bowtie:
 
 ## Description
 
