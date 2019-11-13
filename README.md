@@ -1,4 +1,4 @@
-# Sparta Node Sample App :taco: :taco: :taco: :lollipop:
+# Sparta Node Sample App :taco: :taco: :taco: :lollipop: :lollipop:
 
 ## Description
 
