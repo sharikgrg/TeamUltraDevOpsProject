@@ -1,4 +1,4 @@
-# Sparta Node Sample App :taco: :taco: :taco: sha
+# Sparta Node Sample App :taco: :taco: :taco: sharik
 
 =======
 # Sparta Node Sample App :taco: :taco: :taco: :taco:
