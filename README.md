@@ -1,4 +1,4 @@
-# Sparta Node Sample App :taco: :taco: :sushi: :suhi:
+# Sparta Node Sample App :taco: :taco: :sushi: :sushi:
 
 ## Description
 
