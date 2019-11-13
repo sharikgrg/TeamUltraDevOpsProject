@@ -1,6 +1,8 @@
-# Sparta Node Sample App :taco: :taco: :taco: :lollipop: :lollipop:
+# Sparta Node Sample App :taco: :taco: :taco: sha
 
-tester 3
+=======
+# Sparta Node Sample App :taco: :taco: :taco: :taco:
+:bowtie:
 
 ## Description
 
