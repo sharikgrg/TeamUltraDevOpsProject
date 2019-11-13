@@ -1,5 +1,5 @@
 
-# Sparta Node Sample App :taco: :taco: :taco:
+# Sparta Node Sample App :taco: :taco: :taco: s
 
 =======
 # Sparta Node Sample App :taco: :taco: :taco: :taco:
